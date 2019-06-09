@@ -1,0 +1,5 @@
+1----> run a_MAIN.m file to test cost and edit weights using backpropagation .
+2----> run b_MAIN.m file to test the input recognized images .
+ 
+
+created by H.Omar
